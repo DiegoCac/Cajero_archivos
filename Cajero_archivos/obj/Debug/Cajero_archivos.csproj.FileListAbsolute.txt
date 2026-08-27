@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\bin\Debug\Cajero_archivos.exe.config
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\bin\Debug\Cajero_archivos.exe
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\bin\Debug\Cajero_archivos.pdb
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.Frloggin.resources
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.Properties.Resources.resources
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.exe
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.pdb
+C:\Users\HP\source\repos\Cajero_archivos\Cajero_archivos\obj\Debug\Cajero_archivos.FormRegistroUsuario.resources

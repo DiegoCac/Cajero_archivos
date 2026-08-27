@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|c:\\users\\hp\\source\\repos\\cajero_archivos\\cajero_archivos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|solutionrelative:cajero_archivos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|c:\\users\\hp\\source\\repos\\cajero_archivos\\cajero_archivos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|solutionrelative:cajero_archivos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|c:\\users\\hp\\source\\repos\\cajero_archivos\\cajero_archivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|solutionrelative:cajero_archivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|c:\\users\\hp\\source\\repos\\cajero_archivos\\cajero_archivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|solutionrelative:cajero_archivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|c:\\users\\hp\\source\\repos\\cajero_archivos\\cajero_archivos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos\\Cajero_archivos.csproj|solutionrelative:cajero_archivos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form2.cs",
+              "RelativeDocumentMoniker": "Cajero_archivos\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cajero_archivos\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:52:05.951Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form1.cs",
+              "RelativeDocumentMoniker": "Cajero_archivos\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cajero_archivos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:30:06.096Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form2.cs",
+              "RelativeDocumentMoniker": "Cajero_archivos\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form2.cs",
+              "RelativeToolTip": "Cajero_archivos\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:57:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form1.cs",
+              "RelativeDocumentMoniker": "Cajero_archivos\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\Form1.cs",
+              "RelativeToolTip": "Cajero_archivos\\Form1.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAqwAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:32:34.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Cajero_archivos\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Cajero_archivos\\Cajero_archivos\\ConexionBD.cs",
+              "RelativeToolTip": "Cajero_archivos\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:23:25.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
