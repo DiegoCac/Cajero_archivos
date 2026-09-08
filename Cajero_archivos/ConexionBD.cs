@@ -8,8 +8,7 @@ namespace CajeroATM
     public class ConexionBD
     {
         // Ajusta la cadena con el nombre de tu servidor
-        private readonly string cadenaConexion = "Server=localhost;Database=CajeroATM;Integrated Security=True;TrustServerCertificate=True;";
-
+        private readonly string cadenaConexion = "Server=(localdb)\\MSSQLLocalDB;Database=CajeroATM;Integrated Security=True;TrustServerCertificate=True;";
         public SqlConnection ObtenerConexion()
         {
             return new SqlConnection(cadenaConexion);

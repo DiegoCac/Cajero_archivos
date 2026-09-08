@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\conexionarduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Proyecto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|c:\\users\\karyn maite xoy cucu\\downloads\\cajero_archivos\\cajero_archivos\\conexionarduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:conexionarduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|c:\\users\\karyn maite xoy cucu\\downloads\\cajero_archivos\\cajero_archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,12 +31,12 @@
       "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Proyecto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97853484-2FBB-418F-8D7E-68A46B527CE3}|Cajero_archivos.csproj|solutionrelative:conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Proyecto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +54,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Proyecto.sql ",
+              "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Proyecto.sql",
+              "RelativeDocumentMoniker": "Proyecto.sql",
+              "ToolTip": "Proyecto.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-08T02:42:15.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -54,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -62,12 +85,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T01:30:24.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T01:30:24.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ConexionArduino.cs",
               "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\ConexionArduino.cs",
               "RelativeDocumentMoniker": "ConexionArduino.cs",
@@ -80,30 +102,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ConexionBD.cs",
               "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\ConexionBD.cs",
               "RelativeDocumentMoniker": "ConexionBD.cs",
               "ToolTip": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\ConexionBD.cs",
               "RelativeToolTip": "ConexionBD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T03:46:32.886Z"
+              "WhenOpened": "2026-08-30T03:46:32.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T03:46:29.076Z"
+              "WhenOpened": "2026-08-30T03:46:29.076Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Karyn Maite Xoy Cucu\\Downloads\\Cajero_archivos\\Cajero_archivos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
