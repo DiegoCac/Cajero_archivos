@@ -156,7 +156,7 @@ namespace Cajero_archivos
             try
             {
                 // Reemplazar "COM3" con el puerto COM al que esté conectado tu Arduino
-                arduinoPort = new SerialPort("COM3", 9600);
+                arduinoPort = new SerialPort("COM4", 9600);
                 arduinoPort.DataReceived += new SerialDataReceivedEventHandler(DataReceivedHandler);
                 arduinoPort.Open();
             }
